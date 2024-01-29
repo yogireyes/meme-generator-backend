@@ -1,7 +1,7 @@
 ## Meme-Generator - Backend
 
-#### Live at: https://muhammadabir64-meme-generator.netlify.app
-#### Frontend repository: https://github.com/muhammadabir64/meme-generator-frontend
+#### Live at: https://yogireyes-meme-generator.netlify.app
+#### Frontend repository: https://github.com/yogireyes/meme-generator-frontend
 
 * Requirements:
   - Python v3.12
@@ -9,7 +9,7 @@
 ## how to setup?
 1. Clone Repository:
 ```
-https://github.com/muhammadabir64/meme-generator-backend
+https://github.com/yogireyes/meme-generator-backend
 ```
 2. Install Dependencies:
 ```
